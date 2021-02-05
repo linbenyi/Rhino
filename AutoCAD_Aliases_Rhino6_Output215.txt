@@ -1,0 +1,214 @@
+﻿CT '_Contour
+MA '_MatchProperties
+LT '_SetLineType
+AL '_Align
+OP '_Options
+RB '_rebuild
+AA '_area
+DI '_Distance
+LI '_list
+CK '_check
+PO '_points
+L '_line
+XL '_line b
+PL '_Polyline
+Q1 '_InterpCrv
+Q2 '_Curve
+POL '_Polygon
+RC2 '_Rectangle
+C '_Circle
+A '_Arc
+EL '_Ellipse
+T '_Text
+ED '_PropertiesPage t
+B '_Block
+I '_Insert
+DIV '_Divide
+H '_Hatch
+CN '_Conic
+PA '_Parabola _Vertex
+HX '_Helix
+SP '_Spiral
+TC '_TweenCurves
+PS '_PlanarSrf
+NS '_NetworkSrf
+LO '_loft
+ES '_EdgeSrf
+PT '_Patch
+P2 '_Plane
+P3 '_Plane P
+P4 '_PictureFrame
+G1 '_sweep1
+G2 '_sweep2
+RV '_Revolve
+BO '_Box
+CY '_Cylinder
+BA '_Sphere
+TU '_Tube
+PI '_pipe
+T1 '_ExtrudeCrv _Pause _Solid=_Yes
+T2 '_ExtrudeSrf _Pause _Solid=_Yes
+T3 '_ExtrudeCrvAlongCrv _Pause  _Solid=_Yes _SubCurve=_No
+CO '_copy
+MI '_mirror
+AR1 '_array
+AR2 '_ArrayLinear
+AR3 '_ArrayPolar
+O '_Offset
+RO '_Rotate
+RO3 '_Rotate3D
+M '_Move
+E '_delete
+X '_Explode
+J '_join
+G '_group
+UG '_Ungroup
+TR '_trim
+EX '_Extend
+S '_STRETCH
+SC1 '_Scale1D
+SC2 '_Scale2D
+SC3 '_Scale
+BR '_Split
+CH1 '_Chamfer
+CH2 '_ChamferSrf
+CH3 '_ChamferEdge
+F1 '_Fillet
+F2 '_FilletSrf
+F3 '_FilletEdge
+EXS '_ExtendSrf
+BS '_BlendSrf
+OS '_OffsetSrf
+TS '_TweenSurfaces
+US '_UnrollSrf
+SM '_Smash
+DR '_Dir
+CA '_CurvatureAnalysis
+ZBA '_Zebra
+SE '_ShowEdges
+CG '_CurvatureGraph
+B1 '_BooleanUnion
+B2 '_BooleanDifference
+B3 '_BooleanIntersection
+B4 '_BooleanSplit
+CAP '_cap
+ETS '_ExtractSrf
+MF '_MoveFace
+PJ '_project
+D1 '_DupEdge
+D2 '_DupBorder
+D3 '_DupFaceBorder
+D4 '_ExtractIsoCurve
+D5 '_ExtractWireframe
+IS '_Intersect
+2D '_Make2D
+OR '_Orient
+BX1 '_Twist
+BX2 '_Bend
+BX4 '_Taper
+BX3 '_Shear
+FW1 '_Flow
+FW2 '_FlowAlongSrf
+P '_print
+Z '_Zoom
+ZP '_UndoView
+ZE '_Zoom _All _Extents
+ZS '_Zoom _All _Selected
+ZA '_4View ZEA
+LEN '_Length
+ANG '_Angle
+DIA '_Diameter
+RAD '_Radius
+AAC '_AreaCentroid
+AAM '_AreaMoments
+VV '_Volume
+VVC '_VolumeCentroid
+VVM '_VolumeMoments
+DLI '_Dim
+DAL '_DimAligned
+DRA '_DimRadius
+DDI '_DimDiameter
+DAN '_DimAngle
+DPA '_DimCreaseAngle
+DOR '_DimOrdinate
+LE '_Leader
+D '_DocumentPropertiesPage d
+DT '_Dot
+p1 _SrfPt
+T4 '_ExtrudeSrfAlongCrv _Pause SubCurve=_No  _Solid=_Yes
+BC '_BlendCrv
+C2V '_Crv2View
+D6 '_Silhouette
+AR4 '_ArrayCrv
+S1 '_SelPt
+S2 '_SelCrv
+S3 '_SelSrf
+S4 '_SelPolySrf
+S5 '_SelName
+S6 '_SelGroup
+S7 '_SelColor
+GN '_SetGroupName
+N '_notes
+SO '_softmove
+F Fullscreen
+L1 _line _b _p
+A1 -arc s
+L2 _line _angle
+CE _CrvEnd _CrvStart
+OR3 _Orient3Pt
+G4 _AddToGroup
+G5 _Removefromgroup
+q _pan
+EM _emap
+FL _flip
+PU _pull
+UT _untrim
+ST _split
+SA 'saveas
+T5 _ExtrudeCrvTapered
+T6 _ExtrudeCrvToPoint
+RR _RailRevolve
+pp _SetPt
+OC _OffsetCrvOnSrf
+MT _Match
+FC _FitCrv
+CB _CurveBoolean
+S0 _SelDup
+IK _InsertKnot
+MS _MatchSrf
+JS _MergeSrf
+C2B ConvertToBeziers
+IS2 _IntersectTwoSets
+JF _MergeFace
+BX5 _Splop
+BD _Blend
+SD _SetObjectDisplayMode M
+BRE _SplitEdge
+STS _ShrinkTrimmedSrf
+CD _ChangeDegree
+BB _BoundingBox
+CDI _CrvDeviation
+GC GCon
+TB Turntable
+CP _ClippingPlane
+FI _fin
+M2N MeshToNURB
+MV _Detail _add
+S1U _SelU
+c1 _circle t
+C2 _circle p
+C4 _circle a
+C3 _circle o
+RC1 '_Rectangle _c
+RC3 '_Rectangle _p
+RC4 '_Rectangle _r
+S1V _SelV
+SAA IncrementalSave
+BM _BlockManager
+W _what
+C2F -ViewCaptureToFile _b
+BE BlockManager
+WT _weight
+EB _EndBulge
+PlugInManager ! _OptionsPage _PlugIns
+AdvancedDisplay ! _OptionsPage _DisplayModes
